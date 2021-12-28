@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://github.com/jstrieb/github-stats">![](https://github.com/Lengthrequired/github-stats/blob/master/generated/overview.svg) <br></a>
+
 <!--
 **Lengthrequired/Lengthrequired** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
