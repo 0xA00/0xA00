@@ -4,7 +4,7 @@
     - Studying CS in IUT Montpellier - Sète
     - Any Pronouns
     - Femboys > * <3
-  <a href="https://www.nintendo.fr/Wii/Wii-94559.html">![Wii sport resort lover](https://img.shields.io/badge/Github-9cf?style=for-the-badge&logo=wii&logoColor=white)</a>
+  <a href="https://www.nintendo.fr/Wii/Wii-94559.html">![Wii sport resort lover](https://img.shields.io/badge/Wii_sport_resort_lover-9cf?style=for-the-badge&logo=wii&logoColor=white)</a>
 
 
   <a href="https://github.com/jstrieb/github-stats">![](https://github.com/Lengthrequired/github-stats/blob/master/generated/overview.svg) <br></a>
