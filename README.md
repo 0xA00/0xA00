@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/jstrieb/github-stats">![](https://github.com/Lengthrequired/github-stats/blob/master/generated/overview.svg) <br></a>
+<a href="https://github.com/Lengthrequired/github-stats">![](https://github.com/Lengthrequired/github-stats/blob/master/generated/overview.svg) <br></a>
 
 <!--
 **Lengthrequired/Lengthrequired** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
