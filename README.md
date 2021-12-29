@@ -11,7 +11,7 @@
 
   # Languages :
 <a href="https://openjdk.java.net/">![Java](https://img.shields.io/badge/JAVA-blueviolet?style=for-the-badge&logo=java)</a>
-![CSS](https://img.shields.io/badge/CSS-#4f3085?style=for-the-badge&logo=CSS3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-#4f3085?style=for-the-badge&logo=java&logoColor=white)
 
 
 # Tools :
