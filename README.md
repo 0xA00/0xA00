@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-    - France
+    - France 🇫🇷
     - Studying CS in IUT Montpellier - Sète
     - Any Pronouns
     - Femboys > * <3
