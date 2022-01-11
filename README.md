@@ -4,7 +4,8 @@
     - Studying CS in IUT Montpellier - Sète
     - Any Pronouns
     - Femboys > * <3
-   ![kkkkkkkkkkkkkkkkkkkkkkkkkkkkk](https://user-images.githubusercontent.com/95150184/148957922-b1f7ceee-dc21-4628-a880-3457c6d64e3b.jpg) BI pride 
+   ![kkkkkkkkkkkkkkkkkkkkkkkkkkkjkk](https://user-images.githubusercontent.com/95150184/148958391-c681873d-ba9a-455d-9152-f6dafd1de6d4.jpg) BI pride 
+
 
 
 
