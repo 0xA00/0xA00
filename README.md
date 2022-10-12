@@ -2,6 +2,8 @@
 
     - France 🇫🇷
     - Studying CS in IUT Montpellier - Sète
+    - Java and HTMLS/CSS enjoyer
+    
    
     
 
