@@ -28,5 +28,5 @@
 
 # Others :
   
-- <a href="https://0x7472616e730a.github.io/WiisportResortPage/"> ![Wii sport resort lover](https://img.shields.io/badge/Wii_sport_resort_lover-9cf?style=for-the-badge&logo=wii&logoColor=white)</a>
+- <a href="https://0xA00.github.io/WiisportResortPage/"> ![Wii sport resort lover](https://img.shields.io/badge/Wii_sport_resort_lover-9cf?style=for-the-badge&logo=wii&logoColor=white)</a>
  
