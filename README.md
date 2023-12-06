@@ -1,6 +1,12 @@
+
+<img align="right" height="200" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/22/End_Gateway.gif/revision/latest?cb=20201207133305"/>
+
+
 ## Hi, 0xa0 here.
 
 France CS Student that love doing dumb things.
+
+
 
 
 
