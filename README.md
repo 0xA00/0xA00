@@ -8,7 +8,7 @@ France CS Student that love doing dumb things.
 
 
 
-![kanye](https://kanye.0xa0.dev/api?color=lightblue)
+![kanye](https://kanye.0xa0.dev/api?color=pink)
 
 
 ## Skills and softwares used :
