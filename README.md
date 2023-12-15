@@ -7,7 +7,7 @@
 France CS Student that love doing dumb things.
 
 
-![kanye](https://kanyequote.vercel.app/api)
+![kanye](https://kanye.0xa0.dev/api)
 
 
 ## Skills and softwares used :
