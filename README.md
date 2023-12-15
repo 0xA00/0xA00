@@ -4,7 +4,7 @@
 
 ## Hi, 0xa0 here.
 
-France CS Student that love doing dumb things.
+French CS Student that love doing dumb things.
 
 
 
