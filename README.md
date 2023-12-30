@@ -10,6 +10,8 @@ French CS Student that love doing dumb things.
 
 ![kanye](https://kanye.0xa0.dev/api?color=lightblue)
 
+(this text is from an API I made, I am not affiliate with any thing that could be wrote here)
+
 
 ## Skills and softwares used :
 
