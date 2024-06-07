@@ -12,10 +12,7 @@ French CS Student that love doing dumb things.
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,html,css,bash,c,docker,electron,git,github,linux,md,neovim,netlify,py,vscode,vue)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xA00&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xA00&layout=compact&theme=dark)
 
-![dvdBounce](https://github.com/0xA00/DVDlogo-bouncing-C/blob/main/Wsnakegif.gif)
-    
 
 ## Others :
   
