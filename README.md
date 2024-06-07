@@ -22,4 +22,4 @@ French CS Student that love doing dumb things.
 - <a href="https://0xA00.github.io/WiisportResortPage/"> ![Wii sport resort lover](https://img.shields.io/badge/Wii_sport_resort_lover-9cf?style=for-the-badge&logo=wii&logoColor=white)</a>
  
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; background-position: right; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.05; background: url('https://github.com/0xA00/0xA00/blob/main/shingodzillareduce.jpg?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; background-position: right; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.2; background: url('https://github.com/0xA00/0xA00/blob/main/shingodzillareduce.jpg?raw=true');]{x0000}$}
