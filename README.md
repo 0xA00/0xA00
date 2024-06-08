@@ -34,7 +34,18 @@ background-repeat: no-repeat;
 pointer-events: none;
 opacity: 0.5;
 "]{}
+\mmlToken{ms}[fontfamily="
+font-family: goombafont;
+position: fixed;
+inset: 0;
+z-index: -5;
+font-size: 0.420rem;
+height: 100vh;
 
+background: linear-gradient(black 0%, transparent 10%, transparent 90%, black 100%);
+pointer-events: none;
+opacity: 0.5;
+"]{}
 
 
 
