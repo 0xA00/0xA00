@@ -21,9 +21,9 @@ French CS Student that love doing dumb things.
   
 <a href="https://0xA00.github.io/WiisportResortPage/"> ![Wii sport resort lover](https://img.shields.io/badge/Wii_sport_resort_lover-9cf?style=for-the-badge&logo=wii&logoColor=white)</a>
 
-![pkmn2](https://p.0xa0.dev/pokemon/entei/animated/shiny)
-![pkmn2](https://p.0xa0.dev/pokemon/suicune/animated/shiny)
-![pkmn2](https://p.0xa0.dev/pokemon/raikou/animated/shiny)
+![pkmn2](https://p.0xa0.dev/pokemon/ho-oh/animated/shiny)
+![pkmn2](https://p.0xa0.dev/pokemon/lugia/animated/shiny)
+![pkmn2](https://p.0xa0.dev/pokemon/celebi/animated/shiny)
 
 ```math
 \mmlToken{ms}[fontfamily="goombafont; color:transparent; pointer-events: none; z-index: -111; position: fixed; top: 0; left: 0; height: 100vh; background-size: 100vw 100vh; background-position: bottom; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.3; background: url('https://github.com/0xA00/0xA00/blob/main/wuhu2.png?raw=true'); "]{}
