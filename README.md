@@ -35,20 +35,6 @@ pointer-events: none;
 opacity: 0.5;
 "]{}
 
-\mmlToken{ms}[fontfamily="
-goombafont;
-color: red;
-pointer-events: none;
-position: fixed;
-inset: 0;
-z-index: 100;
-font-size: 0.420rem;
-background: url(https://github.com/TheCubiq/TheCubiq/blob/main/ignore.gif?raw=true);
-background-repeat: no-repeat;
-background-size: contain;
-opacity: 0.02;
-background-position-x: center;
-"]{}
 
 \mmlToken{ms}[fontfamily="
 font-family: goombafont;
