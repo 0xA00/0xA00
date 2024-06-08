@@ -1,4 +1,8 @@
-![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)![tst](https://poke-express.vercel.app/pokemon/ditto/animated)
+![pkmn](https://p.0xa0.dev/pokemon/groudon/animated)
+![pkmn](https://p.0xa0.dev/pokemon/rayquaza/animated)
+![pkmn](https://p.0xa0.dev/pokemon/kyogre/animated)
+<br>
+
 
 
 ## Hi, 0xa0 here.
