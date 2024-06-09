@@ -25,6 +25,7 @@ French CS Student that love doing dumb things.
 ![pkmn2](https://p.0xa0.dev/pokemon/lugia/animated/shiny)
 ![pkmn2](https://p.0xa0.dev/pokemon/celebi/animated/shiny)
 
+
 ```math
 \mmlToken{ms}[fontfamily="goombafont; color:transparent; pointer-events: none; z-index: -111; position: fixed; top: 0; left: 0; height: 100vh; background-size: 100vw 100vh; background-position: bottom; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.3; background: url('https://github.com/0xA00/0xA00/blob/main/wuhu2.png?raw=true'); "]{}
 
@@ -67,3 +68,8 @@ position: fixed;
 inset: 0;
 backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
 "]{}
+
+
+```
+
+<img src="https://p.0xa0.dev/pokemon/ditto/animated/shiny" alt="" height="175px"><img src="https://p.0xa0.dev/pokemon/ditto/animated/" alt="" height="175px">
