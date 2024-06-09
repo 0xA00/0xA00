@@ -72,4 +72,4 @@ backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
 
 ```
 
-<img src="https://p.0xa0.dev/pokemon/ditto/animated/shiny" alt="" height="175px"><img src="https://p.0xa0.dev/pokemon/ditto/animated/" alt="" height="175px">
+
