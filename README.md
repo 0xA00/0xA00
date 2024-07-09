@@ -1,7 +1,4 @@
-![pkmn](https://p.0xa0.dev/pokemon/groudon/animated/)
-![pkmn](https://p.0xa0.dev/pokemon/rayquaza/animated/)
-![pkmn](https://p.0xa0.dev/pokemon/kyogre/animated/)
-<br>
+
 
 
 
@@ -22,9 +19,4 @@ French CS Student that love doing dumb things.
 <a href="https://0xA00.github.io/WiisportResortPage/"> ![Wii sport resort lover](https://img.shields.io/badge/Wii_sport_resort_lover-9cf?style=for-the-badge&logo=wii&logoColor=white)</a>
 
 ![](https://komarev.com/ghpvc/?username=0xa00)
-
-![pkmn2](https://p.0xa0.dev/pokemon/ho-oh/animated/shiny)
-![pkmn2](https://p.0xa0.dev/pokemon/lugia/animated/shiny)
-![pkmn2](https://p.0xa0.dev/pokemon/celebi/animated/shiny)
-
 
