@@ -2,7 +2,7 @@
 
 
 
-# Hi, 0xa0 here.
+# 👋 Hi, 0xa0 here.
 
 I'm a 42 Student from 42 Perpignan Occitanie and I love to tinker with everything!
 
